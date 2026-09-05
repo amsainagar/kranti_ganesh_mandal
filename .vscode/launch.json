@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "kranti_ganesh_mandal (Android Phone)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart",
+      "deviceId": "MyAndroidVirtualDevice-API35"
+    },
+    {
+      "name": "kranti_ganesh_mandal (iPhone)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart",
+      "deviceId": "1B58F4D2-DFAE-415F-ABBE-F1860B02D195"
+    }
+  ]
+}

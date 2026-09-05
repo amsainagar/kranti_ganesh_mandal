@@ -1,0 +1,50 @@
+name: kranti_ganesh_mandal
+description: "Kranti Ganesh Mandal, Saigaon — festival management app."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.12.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  go_router: ^14.8.1
+  hive_flutter: ^1.1.0
+  image_picker: ^1.1.2
+  path_provider: ^2.1.5
+  intl: ^0.20.2
+  uuid: ^4.5.1
+  flutter_native_splash: ^2.4.4
+  url_launcher: ^6.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.3
+  hive: ^2.2.3
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: assets/images/ganesha_splash.png
+  adaptive_icon_background: "#00000000"
+  adaptive_icon_foreground: assets/images/ganesha_splash.png
+
+flutter_native_splash:
+  color: "#14100E"
+  image: assets/images/ganesha_splash.png
+  android_12:
+    color: "#14100E"
+    image: assets/images/ganesha_splash.png
+  android: true
+  ios: true
+
+flutter:
+  uses-material-design: true
+  generate: true
+  assets:
+    - assets/images/ganesha_splash.png

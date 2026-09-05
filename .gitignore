@@ -1,0 +1,79 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# Environment & secrets
+.env
+.env.*
+*.pem
+*.p12
+*.keystore
+!**/debug.keystore
+
+# IntelliJ / Android Studio
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code (optional local settings)
+.vscode/settings.json
+
+# Flutter/Dart/Pub
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+/coverage/
+devtools_options.yaml
+
+# Code generation
+*.g.dart
+*.freezed.dart
+*.mocks.dart
+
+# Symbolication & obfuscation
+app.*.symbols
+app.*.map.json
+
+# FVM
+.fvm/
+
+# Android build outputs
+/android/app/debug
+/android/app/profile
+/android/app/release
+/android/.gradle/
+/android/local.properties
+/android/key.properties
+/android/captures/
+
+# iOS / Xcode
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/ephemeral/
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/ServiceDefinitions.json
+**/ios/Runner/GeneratedPluginRegistrant.*
+**/ios/**/xcuserdata/
+**/ios/**/*.xcuserstate
+**/ios/**/DerivedData/
+
+# macOS ephemeral (if platform folder is re-added)
+**/macos/Flutter/ephemeral/

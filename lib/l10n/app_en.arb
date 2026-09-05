@@ -1,0 +1,232 @@
+{
+  "@@locale": "en",
+  "appName": "Kranti Ganesh Mandal",
+  "appSubtitle": "Saigaon",
+  "pledgeLedger": "Pledge Ledger",
+  "pledgeLedgerSubtitle": "Track vows & collections",
+  "cashbook": "Cashbook",
+  "cashbookSubtitle": "Received & paid",
+  "games": "Games",
+  "gamesSubtitle": "Festival competitions",
+  "mankari": "Mankari",
+  "mankariSubtitle": "Volunteer assignments",
+  "gallery": "Gallery",
+  "gallerySubtitle": "Photos & memories",
+  "reports": "Reports",
+  "reportsSubtitle": "Summaries & exports",
+  "noPledgesYet": "No pledges yet",
+  "addPledgesMessage": "Add pledges to track vows and collections.",
+  "completed": "Completed",
+  "received": "Received",
+  "pending": "Pending",
+  "allStatuses": "All",
+  "income": "Received",
+  "expense": "Paid",
+  "teamsRegistered": "{count} teams registered",
+  "@teamsRegistered": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "photosCount": "{count} photos",
+  "@photosCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "pledgeSummary": "Pledge Summary",
+  "pledgeSummaryDesc": "Total pledges collected vs pending",
+  "pledgeSummaryDetail": "{collected} collected · {pending} pending",
+  "@pledgeSummaryDetail": {
+    "placeholders": {
+      "collected": {"type": "String"},
+      "pending": {"type": "String"}
+    }
+  },
+  "cashbookBalance": "Cashbook Balance",
+  "cashbookBalanceDesc": "Net balance after paid amounts",
+  "cashbookBalanceDetail": "{income} received · {expense} paid",
+  "@cashbookBalanceDetail": {
+    "placeholders": {
+      "income": {"type": "String"},
+      "expense": {"type": "String"}
+    }
+  },
+  "volunteerHours": "Volunteer Hours",
+  "volunteerHoursDesc": "Total mankari shifts logged",
+  "scheduled": "Scheduled",
+  "inProgress": "In Progress",
+  "language": "Language",
+  "english": "English",
+  "marathi": "Marathi",
+  "gameTugOfWar": "Tug of War",
+  "gameMatkiPhod": "Matki Phod",
+  "gameRangoli": "Rangoli Competition",
+  "shiftMorning": "Morning",
+  "shiftEvening": "Evening",
+  "shiftNight": "Night",
+  "shiftAllDay": "All Day",
+  "roleDecorationLead": "Decoration Lead",
+  "roleFoodCommittee": "Food Committee",
+  "roleSecurity": "Security",
+  "roleCulturalEvents": "Cultural Events",
+  "entryDonationPatil": "Donation — Patil family",
+  "entryFlowerDecoration": "Flower decoration",
+  "entryPledgeCollection": "Pledge collection",
+  "entrySoundSystem": "Sound system rental",
+  "albumVisarjan2025": "Visarjan",
+  "albumAartiCeremony": "Aarti Ceremony",
+  "albumCulturalNight": "Cultural Night",
+  "albumPranPratishtha": "Pran Pratishtha",
+  "add": "Add",
+  "save": "Save",
+  "cancel": "Cancel",
+  "name": "Name",
+  "amount": "Amount",
+  "date": "Date",
+  "description": "Description",
+  "addPledge": "Add Pledge",
+  "addMankari": "Add Volunteer",
+  "addGame": "Add Game",
+  "addEntry": "Add Entry",
+  "editEntry": "Edit Entry",
+  "userName": "User name",
+  "registeredMember": "Member",
+  "cashbookCategory": "Category",
+  "selectRegisteredMember": "Select registered member",
+  "selectCategory": "Select category",
+  "noRegisteredMembersAvailable": "Add registered users in Admin first",
+  "categoryDecoration": "Decoration",
+  "categoryDonation": "Donation",
+  "categoryPooja": "Pooja",
+  "categoryGaneshIdol": "Ganesh Idol",
+  "categoryGaneshAagman": "Ganesh Aagman",
+  "categoryGaneshVisarjan": "Ganesh Visarjan",
+  "categoryPrasad": "Prasad",
+  "categoryOthers": "Others",
+  "fieldRequired": "This field is required",
+  "invalidAmount": "Enter a valid amount",
+  "invalidParticipants": "Enter a valid participant count",
+  "selectDate": "Select date",
+  "markAsCompleted": "Mark as completed",
+  "noCashbookEntries": "No entries yet",
+  "addCashbookMessage": "Add received or paid entries to track cash flow.",
+  "tapStatusToToggle": "Tap status to change",
+  "markedAsCompleted": "Marked as completed",
+  "markedAsReceived": "Marked as received",
+  "markAsReceived": "Mark as received",
+  "markedAsPending": "Marked as pending",
+  "totalAmount": "Total amount",
+  "totalPending": "Total Pending",
+  "totalReceived": "Total Received",
+  "editPledge": "Edit Pledge",
+  "editMankari": "Edit Volunteer",
+  "editGame": "Edit Game",
+  "status": "Status",
+  "updatedAt": "Updated at",
+  "useCurrentTime": "Use current time",
+  "tapToEdit": "Tap a pledge to edit",
+  "tapMankariToEdit": "Tap a volunteer to edit",
+  "tapGameToEdit": "Tap a game to edit",
+  "noGamesYet": "No games yet",
+  "addGamesMessage": "Add games to track participants and winners.",
+  "gameName": "Game name",
+  "participants": "Participants",
+  "participantsCount": "{count} participants",
+  "@participantsCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "firstWinner": "1st Winner",
+  "secondWinner": "2nd Winner",
+  "thirdWinner": "3rd Winner",
+  "winnerOptionalHint": "Optional",
+  "noVolunteersYet": "No volunteers yet",
+  "addVolunteersMessage": "Add mankari assignments to track volunteer shifts.",
+  "role": "Role",
+  "shift": "Shift",
+  "addPhoto": "Add Photo",
+  "photoType": "Photo type",
+  "photoYear": "Year",
+  "allPhotoTypes": "All types",
+  "allYears": "All years",
+  "deletePhoto": "Delete photo",
+  "deletePhotoConfirm": "Delete this photo from the gallery?",
+  "photoDeleted": "Photo deleted",
+  "noPhotosYet": "No photos yet",
+  "addPhotosMessage": "Upload photos and choose a type and year for your gallery.",
+  "uploadFailed": "Could not upload photo",
+  "note": "Note",
+  "noteHint": "Optional short note",
+  "splashTitle": "KRANTI GANESH SAIGAON",
+  "splashTitleMarathi": "क्रांती गणेश सायगाव",
+  "login": "Login",
+  "logout": "Logout",
+  "mobileNumber": "Mobile number",
+  "password": "Password",
+  "invalidMobile": "Enter a valid 10-digit mobile number",
+  "invalidPassword": "Enter a valid 4 digit password",
+  "invalidCredentials": "Invalid mobile number or password",
+  "accountInactive": "This account is inactive. Contact an admin.",
+  "loginFailed": "Login failed. Please try again.",
+  "readOnlyMode": "Read-only access",
+  "admin": "Admin",
+  "adminSubtitle": "Manage users & roles",
+  "addUser": "Add User",
+  "editUser": "Edit User",
+  "deleteUser": "Delete user",
+  "deleteUserConfirm": "Delete this user?",
+  "deletePledge": "Delete pledge",
+  "deletePledgeConfirm": "Delete this pledge?",
+  "deleteEntry": "Delete entry",
+  "deleteEntryConfirm": "Delete this cashbook entry?",
+  "pledgeDeleted": "Pledge deleted",
+  "entryDeleted": "Entry deleted",
+  "noUsersYet": "No users yet",
+  "addUsersMessage": "Add users with name, mobile number, and role.",
+  "userRole": "Role",
+  "roleAdmin": "Admin",
+  "roleSuperAdmin": "Super Admin",
+  "roleMember": "Member",
+  "roleUser": "User",
+  "userStatus": "Status",
+  "userActive": "Active",
+  "userInactive": "Inactive",
+  "mobileAlreadyExists": "This mobile number is already registered",
+  "cannotDeleteSelf": "You cannot delete your own account",
+  "cannotDeleteSuperAdmin": "Super Admin cannot be deleted",
+  "sendRegistrationWhatsApp": "Send registration on WhatsApp?",
+  "sendRegistrationWhatsAppMessage": "Open WhatsApp with a ready message for {name}? You will need to tap Send.",
+  "@sendRegistrationWhatsAppMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "sendViaWhatsApp": "Send on WhatsApp",
+  "skipForNow": "Skip",
+  "whatsAppNotAvailable": "Could not open WhatsApp on this device",
+  "registrationWhatsAppBody": "Hello {name},\n\nYou are registered on {appName} app.\n\nLogin details:\nMobile: {mobile}\nPassword: {password}\n\n— {appName}",
+  "@registrationWhatsAppBody": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "appName": {
+        "type": "String"
+      },
+      "mobile": {
+        "type": "String"
+      },
+      "password": {
+        "type": "String"
+      }
+    }
+  }
+}
